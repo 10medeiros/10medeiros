@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @10medeiros
+- 👋 Hi, I’m Gabriel medeiros
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning javascript and python
 
