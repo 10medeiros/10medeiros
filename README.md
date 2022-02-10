@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @10medeiros
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning javascript and python
 
 <!---
 10medeiros/10medeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
