@@ -3,10 +3,10 @@
 <br>
 
 <p align="left">
- - 🌱 Atualmente aprendendo **C++**
+
 
  - 🤝 Procurando colaborar com **projetos de desenvolvimento web**
-
+ - 🌱 Atualmente aprendendo **C++**
  - 📫 E-mail para contato **gabrielmedeiros2003@hotmail.com** 
 </p>
 <br>
