@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Gabriel Medeiros</h1>
-<h3 align="center">Estudante de Ciências e tecnologia na UFRN e técnico em Informática para internet pelo IMD/UFRN</h3>
+<h2 align="center">Estudante de Ciências e tecnologia na UFRN e técnico em Informática para internet pelo IMD/UFRN</h2>
+
 <br>
 
 - 🌱 Atualmente aprendendo **C++**
