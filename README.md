@@ -4,7 +4,7 @@
 <h3 align="center">Formado em informática para internet pelo IMD/UFRN e atualmente discente de Ciências e tecnologia na UFRN
 
 
-<h3 align="center">Minhas redes sociais:
+<h3 align="left">Minhas redes sociais:
 <a href="https://www.linkedin.com/in/10medeiros/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel medeiros" height="30" width="40" /></a>
 <a href="https://instagram.com/10medeiros" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="10medeiros" height="30" width="40" /> </a>
 </p>
