@@ -1,11 +1,8 @@
 
-<h1 align="center">I'm Gabriel Medeiros</h1>
-<h3 align="center">Brazilian web developer, interested in web applications, crypto
+<h1 align="center">Eu sou o Gabriel Medeiros</h1>
+<br>
+<h3 align="center">Formado em informática para internet pelo IMD/UFRN e atualmente discente de Ciências e tecnologia na UFRN
 
-- 💬 Ask me about anything, if I don't know, I'll search and do my best.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/10medeiros/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel medeiros" height="30" width="40" /></a>
 <a href="https://instagram.com/10medeiros" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="10medeiros" height="30" width="40" /> </a>
 </p>
