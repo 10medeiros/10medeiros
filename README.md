@@ -1,12 +1,14 @@
 <h1 align="center">Olá 👋, me chamo Gabriel Medeiros</h1> 
 <h3 align="center">Estudante de Ciências e tecnologia na UFRN e técnico em Informática para internet pelo IMD/UFRN</h3>
 <br>
+
 <p align="left">
-- 🌱 Atualmente aprendendo **C++**
+ - 🌱 Atualmente aprendendo **C++**
 
-- 🤝 Procurando colaborar com **projetos de desenvolvimento web**
+ - 🤝 Procurando colaborar com **projetos de desenvolvimento web**
 
-- 📫 E-mail para contato **gabrielmedeiros2003@hotmail.com**</p>
+ - 📫 E-mail para contato **gabrielmedeiros2003@hotmail.com** 
+</p>
 <br>
 
 <h3 align="left">Minhas redes sociais:</h3>
