@@ -1,11 +1,8 @@
 
 <h1 align="center">I'm Gabriel Medeiros</h1>
-<h3 align="center">Brazilian web developer, interested in web applications, nfts, crypto and of course soccer, to complete the stereotype.</h3>
-<hr>
+<h3 align="center">Brazilian web developer, interested in web applications, crypto
 
 - 💬 Ask me about anything, if I don't know, I'll search and do my best.
-
-- ⚡ Fun fact I don't like coffee that much, love to play guitar.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
