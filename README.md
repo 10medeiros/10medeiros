@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Gabriel Medeiros</h1> 
-<h3 align="center">Estudante de Ciências e tecnologia na UFRN e técnico em Informática para internet pelo IMD/UFRN</h3>
+<h3 align="center"> Técnico em Informática para internet pelo IMD/UFRN e discente de Ciências e tecnologia na UFRN</h3>
 <br>
 
 <p align="left">
